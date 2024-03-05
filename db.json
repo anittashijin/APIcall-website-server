@@ -1,0 +1,66 @@
+{
+  "ourHighlights": [
+    {
+      "id": "4833",
+      "caption": "Bridal Makeup",
+      "imageURL": "https://media.weddingz.in/images/a939d16a0c11b428ef6034d217e76f0b/10-stunning-bridal-makeup-looks-for-the-2018-bride-10.jpg",
+      "youtubeLink": "https://www.youtube.com/embed/5dMhCWCff5k"
+    },
+    {
+      "id": "7137",
+      "caption": "Custom facial",
+      "imageURL": "https://th.bing.com/th/id/OIP.t8tIjK8tmNS-q4o86gJ7UAHaJ2?rs=1&pid=ImgDetMain",
+      "youtubeLink": "https://www.youtube.com/embed/Wpnlu1RocMw"
+    },
+    {
+      "id": "e700",
+      "caption": "Hair Smoothening",
+      "imageURL": "https://images.pexels.com/photos/973403/pexels-photo-973403.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "youtubeLink": "https://www.youtube.com/embed/xIAySUBjx2M"
+    },
+    {
+      "id": "4c65",
+      "caption": "Hair Smoothening",
+      "imageURL": "https://th.bing.com/th/id/R.b1eab5daadc6dc649d85e7d5c98b7509?rik=vW50cP25nohIUQ&riu=http%3a%2f%2fbeautydesk.com%2fwp-content%2fuploads%2f2015%2f03%2fshutterstock_130144283.jpg&ehk=9UqQ4UF%2fI%2fjUOqbt7I2UfXjUHkP2F5L0dIPkXaV234M%3d&risl=&pid=ImgRaw&r=0",
+      "youtubeLink": "https://www.youtube.com/embed/xIAySUBjx2M"
+    },
+    {
+      "id": "309f",
+      "caption": "Hair spa",
+      "imageURL": "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg",
+      "youtubeLink": "https://www.youtube.com/embed/T1dMN2crBic"
+    },
+    {
+      "id": "19f9",
+      "caption": "Hair cut",
+      "imageURL": "https://images.pexels.com/photos/3268732/pexels-photo-3268732.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "youtubeLink": "https://www.youtube.com/embed/24C4noZ3H7U"
+    },
+    {
+      "id": "986d",
+      "caption": "Hair Botox",
+      "imageURL": "https://images.pexels.com/photos/1987301/pexels-photo-1987301.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "youtubeLink": "https://www.youtube.com/embed/E1YZ4o7UxfI"
+    }
+  ],
+  "history": [
+    {
+      "id": "cdd5",
+      "caption": "Hair Botox",
+      "youtubeLink": "https://www.youtube.com/embed/VnE7dfar0u8",
+      "timeStamp": "03/04/2024, 12:30:09 PM"
+    },
+    {
+      "id": "febe",
+      "caption": "Bridal Makeup",
+      "youtubeLink": "https://www.youtube.com/embed/5dMhCWCff5k",
+      "timeStamp": "03/05/2024, 07:43:45 AM"
+    },
+    {
+      "id": "e484",
+      "caption": "Hair Smoothening",
+      "youtubeLink": "https://www.youtube.com/embed/xIAySUBjx2M",
+      "timeStamp": "03/05/2024, 08:38:52 AM"
+    }
+  ]
+}
